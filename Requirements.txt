@@ -1,0 +1,24 @@
+# EverWell Cardiac Hospital Analytics
+# Project Environment Requirements
+
+## Database Management
+Microsoft SQL Server 2019 or later
+SQL Server Management Studio (SSMS) 19 or later
+
+## Data Analysis & Reporting
+Microsoft Power BI Desktop
+Microsoft Excel 2019 or later
+
+## Development & Version Control
+Git
+GitHub Repository
+
+## Data Source Format
+CSV / Excel (.csv, .xlsx)
+
+## Project Skills
+SQL Server Database Development
+T-SQL Query Development
+Healthcare KPI Analysis
+Data Cleaning & Transformation
+Data Visualization & Reporting
